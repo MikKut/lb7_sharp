@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Repositories": {
+      "commandName": "Project",
+      "environmentVariables": {
+      }
+    }
+  }
+}
